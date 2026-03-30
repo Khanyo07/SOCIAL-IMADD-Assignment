@@ -1,0 +1,16 @@
+App Overview
+This Android application demonstrates practical implementation of GitHub Actions for automated testing and continuous integration. The app serves as a learning tool for mobile development students to understand CI/CD workflows.
+
+Purpose
+The primary goal is to create a functional Android app that integrates with GitHub's automation tools, allowing developers to:
+
+Understand automated build processes
+Implement unit testing frameworks
+Practice version control with GitHub
+GitHub Actions Integration
+GitHub Actions automates the build and test pipeline. When code is pushed to the repository, Actions automatically:
+
+Compiles the Android project
+Runs all unit tests
+Validates code quality
+This ensures consistent builds and catches errors early in development.
