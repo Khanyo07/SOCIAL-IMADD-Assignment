@@ -24,5 +24,5 @@ A simple Android application built to explore GitHub Actions integration and aut
 Run tests using: `./gradlew test`
 
 ### Demo Video
-[Link to your video presentation]
+https://youtu.be/oQKU4w06ut8
 
